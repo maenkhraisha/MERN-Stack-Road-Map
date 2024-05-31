@@ -1,4 +1,4 @@
-# FrontEnd-Road-Map
+# MERN Stack Road Map
 
 ### week 1 (HTML & CSS)
 ### week 2 (CSS)
