@@ -8,14 +8,15 @@
     ### week 5 (JavaScript)
     ### week 6 (capstone Project)
     ### week 7 (capstone Project)
+    ### Optional: Tailwind CSS
+    ### week 8 (css preprocessor SASS)
     
 ## Industry Tools
     ### git and GitHub
 
 ## Frontend Web Dev
-    ### Optional: Tailwind CSS
-    ### week 8 (css preprocessor SASS)
     ### week 9 (React)
+        1. https://youtu.be/brcHK3P6ChQ?si=WODOV_OMez7XN9gZ
     ### week 10 (React)
     ### week 11 (capstone Project)
     ### week 12 (capstone Project)
