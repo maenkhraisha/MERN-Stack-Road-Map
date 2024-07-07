@@ -3,7 +3,9 @@
 ## Web Dev Foundations
     ### week 1 (HTML & CSS)
     ### week 2 (CSS)
+        https://www.youtube.com/watch?v=3elGSZSWTbM&list=PL4-IK0AVhVjNMUcnzWixthjBKlOMgh-q4
     ### week 3 (CSS)
+        https://www.youtube.com/watch?v=mU6anWqZJcc
     ### week 4 (JavaScript)
     ### week 5 (JavaScript)
     ### week 6 (capstone Project)
