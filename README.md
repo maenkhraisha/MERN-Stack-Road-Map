@@ -22,7 +22,7 @@
 
 ## Frontend Web Dev
     ### week 9 (React)
-        1. https://youtu.be/brcHK3P6ChQ?si=WODOV_OMez7XN9gZ
+        https://youtu.be/brcHK3P6ChQ?si=WODOV_OMez7XN9gZ
     ### week 10 (React)
     ### week 11 (capstone Project)
     ### week 12 (capstone Project)
