@@ -11,6 +11,7 @@
     ### week 4 (JavaScript)
         https://www.youtube.com/watch?v=W6NZfCO5SIk&pp=ygUXamF2YXNjcmlwdCBjcmFzaCBjb3Vyc2U%3D
     ### week 5 (JavaScript DOM)
+        https://www.youtube.com/watch?v=5fb2aPlgoys&pp=ygUbamF2YXNjcmlwdCBkb20gY3Jhc2ggY291cnNl
         https://www.youtube.com/watch?v=y17RuWkWdn8&pp=ygUbamF2YXNjcmlwdCBkb20gY3Jhc2ggY291cnNl
         https://www.youtube.com/watch?v=0ik6X4DJKCc
     ### week 6 (capstone Project)
