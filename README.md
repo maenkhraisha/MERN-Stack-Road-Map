@@ -9,6 +9,7 @@
     ### week 3 (CSS)
         https://www.youtube.com/watch?v=mU6anWqZJcc
         https://css-tricks.com/snippets/css/complete-guide-grid/
+        https://www.youtube.com/watch?v=p3_xN2Zp1TY
     ### week 4 (JavaScript)
         https://www.youtube.com/watch?v=W6NZfCO5SIk&pp=ygUXamF2YXNjcmlwdCBjcmFzaCBjb3Vyc2U%3D
     ### week 5 (JavaScript DOM)
