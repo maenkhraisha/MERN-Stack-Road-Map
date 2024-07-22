@@ -24,6 +24,8 @@
     
 ## Industry Tools
     ### git and GitHub
+    ### Figma
+    ### introduction to UI/UX
 
 ## Frontend Web Dev
     ### week 9 (React)
@@ -32,6 +34,14 @@
     
     ### week 11 (capstone Project)
     ### week 12 (capstone Project)
+
+## optional 
+    ### Backend Roadmap 
+        https://www.youtube.com/watch?v=CVgzp2vfePs
+        
+## Design
+    system design
+    design pattern
 
 ## Backend Web Dev
     ### week 13 (Database Sql)
